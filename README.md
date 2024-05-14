@@ -40,3 +40,7 @@ Design steps:
     - SAVEPOINT
     - DELETE
     - DROP vs TRUNCATE
+
+## Technologies Used
+* Oracle
+* SQL
